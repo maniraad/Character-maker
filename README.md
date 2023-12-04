@@ -1,2 +1,10 @@
-<h1><a href="https://maniraad.github.io/Character-maker/" target="_blank">Character-maker</a></h1>
+<h1>Character-maker</h1>
+
+## • Project Demo
+
+![Demo](Demo.png)
+
+## • Live Demo🤘
+Here is a working live demo :  https://maniraad.github.io/Character-maker/
+
 
